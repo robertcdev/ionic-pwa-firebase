@@ -30,7 +30,7 @@
     "@ionic/angular": "^4.7.1",
     "angularfire2": "^5.2.3",
     "br-mask": "0.0.8",
-    "chart.js": "^2.9.3",
+    "chart.js": "^2.9.4",
     "cordova-plugin-googleplus": "^8.2.0",
     "core-js": "^2.5.4",
     "firebase": "^7.4.0",
